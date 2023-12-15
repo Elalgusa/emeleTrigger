@@ -2,5 +2,6 @@
 *~
 # Rootfiles
 *.root
+*.png
 # Pycache caca
 __pycache__
