@@ -5,3 +5,6 @@
 *.png
 # Pycache caca
 __pycache__
+# Images
+*.png
+d
